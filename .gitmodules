@@ -4,3 +4,6 @@
 [submodule "gas-preprocessor"]
 	path = gas-preprocessor
 	url = git://github.com/mansr/gas-preprocessor.git
+[submodule "libvpx"]
+	path = libvpx
+	url = ssh://gerrit.chromium.org:29418/webm/libvpx.git
